@@ -533,7 +533,7 @@ style attribute {
 .dark .ant-table-expanded-row:hover,
 .dark .ant-table-expanded-row .ant-table-tbody,
 .dark .ant-calendar {
-    background-color: var(--dark-color-background);
+    background-color: #111214;
     color: var(--dark-color-text-primary);
 }
 
